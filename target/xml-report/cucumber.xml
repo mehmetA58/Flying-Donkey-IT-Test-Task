@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="9.499">
+    <testcase classname="Dhtml" name="Dhtml" time="9.191">
+        <system-out>
+            <![CDATA[Given Go to "dhtmlgoodies"..................................................passed
+Then DhtmlFill in capitals by country.......................................passed
+And close to page...........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
